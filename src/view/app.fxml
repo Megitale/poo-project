@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXTextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="408.0" prefWidth="750.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.AppController">
+   <children>
+      <MFXButton buttonType="RAISED" layoutX="462.0" layoutY="357.0" prefHeight="50.0" prefWidth="210.0" rippleRadius="30.0" rippleRadiusMultiplier="5.0" text="Ingresar" />
+      <MFXTextField floatMode="ABOVE" floatingText="Correo electrónico:" layoutX="462.0" layoutY="168.0" prefHeight="50.0" prefWidth="210.0" />
+      <MFXTextField floatMode="ABOVE" floatingText="Contraseña:" layoutX="462.0" layoutY="263.0" prefHeight="50.0" prefWidth="210.0" />
+      <ImageView fitHeight="538.0" fitWidth="493.0" layoutY="7.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../resources/cover_login.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
