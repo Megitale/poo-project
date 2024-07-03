@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e151cb4f-4957-440d-ba99-d49d21666f83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_github_palexdev_materialfx.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poo-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/AppController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/RootLayoutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/cover_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/menu_admin_horarios.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/menu_listado_asistencia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/menu_registrar_asistencia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/RootLayout.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/app.fxml" afterDir="false" />
+    <list default="true" id="e151cb4f-4957-440d-ba99-d49d21666f83" name="Changes" comment="feat: initial commit">
+      <change afterPath="$PROJECT_DIR$/lib/materialfx-11.13.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/virtualizedfx-11.2.6.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,11 +102,35 @@
       <workItem from="1720035079795" duration="57000" />
       <workItem from="1720035150936" duration="982000" />
       <workItem from="1720036152368" duration="4850000" />
-      <workItem from="1720042449658" duration="2258000" />
+      <workItem from="1720042449658" duration="2652000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: initial commit">
+      <option name="closed" value="true" />
+      <created>1720044868717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720044868717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: initial commit" />
   </component>
 </project>
